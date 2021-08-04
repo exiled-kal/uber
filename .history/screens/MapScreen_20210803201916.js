@@ -1,6 +1,6 @@
 import React from "react";
 import { Text, View } from "react-native";
-import tw from "tailwind-react-native-classnames";
+SafeAreaView
 import Map from "../components/Map";
 import MapView from "react-native-maps";
 import { createNativeStackNavigator } from "@react-navigation/stack";

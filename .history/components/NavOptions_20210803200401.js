@@ -2,7 +2,6 @@ import { useNavigation } from "@react-navigation/native";
 import React from "react";
 import { FlatList, Image, Text, TouchableOpacity, View } from "react-native";
 import { Icon } from "react-native-elements";
-import { useSelector } from "react-redux";
 import tw from "tailwind-react-native-classnames";
 
 const data = [

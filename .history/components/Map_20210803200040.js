@@ -1,7 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 import MapView, { Marker } from "react-native-maps";
-
 import tw from "tailwind-react-native-classnames";
 
 const Map = () => {
@@ -25,8 +24,7 @@ const Map = () => {
             longitude: origin.location.longitude,
           }}
           title="Origin"
-          description={origin.description}
-          identifier="origin"
+          description={}
         />
       )}
     </MapView>

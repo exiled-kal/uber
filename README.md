@@ -12,3 +12,4 @@ dependencies installed for this react- native app
 10/yarn add react-native-google-places-autocomplete
 11/yarn add react-native-dotenv
 12/yarn add react-native-maps
+13/yarn add react-native-maps-directions
